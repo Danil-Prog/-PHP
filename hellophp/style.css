@@ -1,0 +1,20 @@
+	
+	@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
+	
+
+#one{
+	background-color: #000;
+	font-family: 'Gamja Flower', cursive;
+	font-size:20px;	
+}	
+
+
+.center {
+    width: 200px; /* Ширина элемента в пикселах */
+    padding: 50px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+    background: #fc0; /* Цвет фона */
+    margin-top: 200px;
+	font-family: 'Gamja Flower', cursive;
+	font-size:20px;	
+}
